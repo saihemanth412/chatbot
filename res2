@@ -1,0 +1,7 @@
+finance-chatbot/
+│── streamlit_app.py              # Main Streamlit app (UI + chatbot logic)
+│── finance_agent.py              # Helper functions (finance Q&A, API calls, etc.)
+│── requirements.snowflake.txt    # Dependencies for Snowflake
+│── requirements.txt              # Dependencies for local testing
+│── .gitignore                    # Ignore unnecessary files
+│── README.md                     # Documentation
